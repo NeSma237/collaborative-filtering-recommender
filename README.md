@@ -1,5 +1,3 @@
-# collaborative-filtering-recommender
-
 # 🎬 Movie Recommendation System (Collaborative Filtering)
 
 This project implements a **Collaborative Filtering-based Recommendation System** using the [MovieLens 100K dataset](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset). The system suggests movies to users based on their past ratings and the preferences of similar users or items.

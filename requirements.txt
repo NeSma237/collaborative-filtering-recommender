@@ -5,3 +5,4 @@ surprise>=0.1
 matplotlib>=3.5.0
 seaborn>=0.11.0
 jupyter>=1.0.0
+pip install -r requirements.txt
